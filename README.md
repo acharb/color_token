@@ -1,2 +1,2 @@
 # color_token
-Creating a Color ERC-721 Token
+ERC-721 Token represented as a unique color and shape 
