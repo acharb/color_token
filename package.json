@@ -1,0 +1,17 @@
+{
+  "name": "color_token",
+  "version": "1.0.0",
+  "description": "Creating a Color ERC-721 Token",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acharb/color_token.git"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.5.0"
+  },
+  "devDependencies": {}
+}
